@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EyuelMathewos
-- 👀 I’m interested in Full Stack Development
+- 👀 Enhance my Full Stack Development
 - 🌱 I’m currently Working
-- 💞️ I’m looking to collaborate on any Software Developemnt with best idea
+- ✨  I’m looking to collaborate on any Software Developemnt with best idea
 - 📫 How to reach me -email : eyuelmathewos@gmail.com
 -  check out my pinned Projects
 
